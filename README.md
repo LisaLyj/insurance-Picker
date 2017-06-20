@@ -1,5 +1,5 @@
-# simple-SPA-jQuery
+# Insurance Picker
 
 ### Travel insurance selection tool
 
-Create a sample insurance picker tool single page application that will let users to view different plans and select one.
+A simple insurance picker tool single page application using jQuery that will let users to view different plans and select one.
